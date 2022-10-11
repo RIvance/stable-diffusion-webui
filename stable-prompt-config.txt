@@ -1,0 +1,4 @@
+extremely detailed CG, HD wallpaper, {{masterpiece}}, best quality, illustration, {{loli}}, {cute}, beautiful detailed eyes, beautiful detailed sky, sun shine, cinematic lighting, dramatic angle, long white hair, red eyes, 1 girl, 2 eyes, halter dress, {{full body}}
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, poorly drawn hands, ugly, fat, obese, gyaru, chubby, big breasts, abstract, scary, 3 eyes, more than 2 eyes, nsfw, wooden desks
+Steps: 64, Sampler: DDIM, CFG scale: 11, Seed: 596515736, Face restoration: CodeFormer, Size: 1920x1024, Model hash: 202fcec0, Denoising strength: 0.7, Clip skip: 2
+
