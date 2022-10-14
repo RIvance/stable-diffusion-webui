@@ -1,4 +1,4 @@
-![](eg.png)
+![](eg.jpg)
 
 ```
 (((masterpiece))), ((best quality)), (loli:1.7), ((1girl)), illustration, long light white hair, sunlight, cinematic lighting, beautiful detailed red eyes, white bra, white panties, star \(sky\), night sky, starry sky, beautiful detailed eyes, (slim)
